@@ -1,0 +1,11 @@
+{
+  "name": "Paginacao-ReactJS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/wdangelo/Paginacao-ReactJS.git",
+  "author": "William de Angelo <52357299+wdangelo@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
